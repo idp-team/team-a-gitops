@@ -1,0 +1,4 @@
+image:
+  repository: ghcr.io/mendhak/http-https-echo
+  pullPolicy: IfNotPresent
+  tag: "30"
